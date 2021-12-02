@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "elOWIyk6GYCXhDoZpb60VY81DtJiNRm7CTNP1/8WIkH5OSOtXC/f0Wtx7URKZSvLZDe9WgGndBDH0UiUPX2S1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\utuerk.PBS-AUSTRIA\\Desktop\\C# Training Journey\\Training-Journey\\MainArgsDemo\\MainArgsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\utuerk.PBS-AUSTRIA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\bin\Debug\net5.0\NullablesE.exe
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\bin\Debug\net5.0\NullablesE.deps.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\bin\Debug\net5.0\NullablesE.runtimeconfig.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\bin\Debug\net5.0\NullablesE.runtimeconfig.dev.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\bin\Debug\net5.0\NullablesE.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\bin\Debug\net5.0\ref\NullablesE.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\bin\Debug\net5.0\NullablesE.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\obj\Debug\net5.0\NullablesE.csproj.AssemblyReference.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\obj\Debug\net5.0\NullablesE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\obj\Debug\net5.0\NullablesE.AssemblyInfoInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\obj\Debug\net5.0\NullablesE.AssemblyInfo.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\obj\Debug\net5.0\NullablesE.csproj.CoreCompileInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\obj\Debug\net5.0\NullablesE.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\obj\Debug\net5.0\ref\NullablesE.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\obj\Debug\net5.0\NullablesE.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\NullablesE\obj\Debug\net5.0\NullablesE.genruntimeconfig.cache

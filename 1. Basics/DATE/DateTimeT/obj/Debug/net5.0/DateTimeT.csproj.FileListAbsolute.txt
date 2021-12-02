@@ -1,0 +1,32 @@
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.exe
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.deps.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.runtimeconfig.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.runtimeconfig.dev.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\bin\Debug\net5.0\ref\DateTimeT.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.csproj.AssemblyReference.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.AssemblyInfoInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.AssemblyInfo.cs
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.csproj.CoreCompileInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\obj\Debug\net5.0\ref\DateTimeT.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.genruntimeconfig.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.exe
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.deps.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.runtimeconfig.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.runtimeconfig.dev.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\bin\Debug\net5.0\ref\DateTimeT.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\bin\Debug\net5.0\DateTimeT.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.csproj.AssemblyReference.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.AssemblyInfoInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.AssemblyInfo.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.csproj.CoreCompileInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\obj\Debug\net5.0\ref\DateTimeT.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\DateTimeT\obj\Debug\net5.0\DateTimeT.genruntimeconfig.cache

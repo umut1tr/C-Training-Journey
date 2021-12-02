@@ -1,0 +1,7 @@
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Queues\Queues\bin\Debug\Queues.exe.config
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Queues\Queues\bin\Debug\Queues.exe
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Queues\Queues\bin\Debug\Queues.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Queues\Queues\obj\Debug\Queues.csproj.AssemblyReference.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Queues\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Queues\Queues\obj\Debug\Queues.exe
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Queues\Queues\obj\Debug\Queues.pdb

@@ -1,0 +1,16 @@
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\obj\Debug\net5.0\IEnumerableDemo2.csproj.AssemblyReference.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\obj\Debug\net5.0\IEnumerableDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\obj\Debug\net5.0\IEnumerableDemo2.AssemblyInfoInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\obj\Debug\net5.0\IEnumerableDemo2.AssemblyInfo.cs
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\obj\Debug\net5.0\IEnumerableDemo2.csproj.CoreCompileInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\bin\Debug\net5.0\IEnumerableDemo2.exe
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\bin\Debug\net5.0\IEnumerableDemo2.deps.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\bin\Debug\net5.0\IEnumerableDemo2.runtimeconfig.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\bin\Debug\net5.0\IEnumerableDemo2.runtimeconfig.dev.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\bin\Debug\net5.0\IEnumerableDemo2.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\bin\Debug\net5.0\ref\IEnumerableDemo2.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\bin\Debug\net5.0\IEnumerableDemo2.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\obj\Debug\net5.0\IEnumerableDemo2.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\obj\Debug\net5.0\ref\IEnumerableDemo2.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\obj\Debug\net5.0\IEnumerableDemo2.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableDemo2\obj\Debug\net5.0\IEnumerableDemo2.genruntimeconfig.cache

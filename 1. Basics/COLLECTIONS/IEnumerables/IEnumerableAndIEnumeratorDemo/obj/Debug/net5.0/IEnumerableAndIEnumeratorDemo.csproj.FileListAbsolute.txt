@@ -1,0 +1,16 @@
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\bin\Debug\net5.0\IEnumerableAndIEnumeratorDemo.exe
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\bin\Debug\net5.0\IEnumerableAndIEnumeratorDemo.deps.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\bin\Debug\net5.0\IEnumerableAndIEnumeratorDemo.runtimeconfig.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\bin\Debug\net5.0\IEnumerableAndIEnumeratorDemo.runtimeconfig.dev.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\bin\Debug\net5.0\IEnumerableAndIEnumeratorDemo.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\bin\Debug\net5.0\ref\IEnumerableAndIEnumeratorDemo.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\bin\Debug\net5.0\IEnumerableAndIEnumeratorDemo.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\obj\Debug\net5.0\IEnumerableAndIEnumeratorDemo.csproj.AssemblyReference.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\obj\Debug\net5.0\IEnumerableAndIEnumeratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\obj\Debug\net5.0\IEnumerableAndIEnumeratorDemo.AssemblyInfoInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\obj\Debug\net5.0\IEnumerableAndIEnumeratorDemo.AssemblyInfo.cs
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\obj\Debug\net5.0\IEnumerableAndIEnumeratorDemo.csproj.CoreCompileInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\obj\Debug\net5.0\IEnumerableAndIEnumeratorDemo.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\obj\Debug\net5.0\ref\IEnumerableAndIEnumeratorDemo.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\obj\Debug\net5.0\IEnumerableAndIEnumeratorDemo.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\IEnumerableAndIEnumeratorDemo\obj\Debug\net5.0\IEnumerableAndIEnumeratorDemo.genruntimeconfig.cache

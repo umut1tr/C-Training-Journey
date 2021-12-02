@@ -1,0 +1,16 @@
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\bin\Debug\net5.0\EventsAndMulticastDelegates.exe
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\bin\Debug\net5.0\EventsAndMulticastDelegates.deps.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\bin\Debug\net5.0\EventsAndMulticastDelegates.runtimeconfig.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\bin\Debug\net5.0\EventsAndMulticastDelegates.runtimeconfig.dev.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\bin\Debug\net5.0\EventsAndMulticastDelegates.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\bin\Debug\net5.0\ref\EventsAndMulticastDelegates.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\bin\Debug\net5.0\EventsAndMulticastDelegates.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\obj\Debug\net5.0\EventsAndMulticastDelegates.csproj.AssemblyReference.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\obj\Debug\net5.0\EventsAndMulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\obj\Debug\net5.0\EventsAndMulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\obj\Debug\net5.0\EventsAndMulticastDelegates.AssemblyInfo.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\obj\Debug\net5.0\EventsAndMulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\obj\Debug\net5.0\EventsAndMulticastDelegates.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\obj\Debug\net5.0\ref\EventsAndMulticastDelegates.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\obj\Debug\net5.0\EventsAndMulticastDelegates.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\EventsAndMulticastDelegates\obj\Debug\net5.0\EventsAndMulticastDelegates.genruntimeconfig.cache

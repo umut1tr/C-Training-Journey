@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IR5RR6PEP/fmzZ0hx8FLGk919mbCNJ43YuTIGg1LlcHWcbw8CSouaJcsHXplndN7JWLE873oBP6Nt8w8S1D3EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\utuerk.PBS-AUSTRIA\\Desktop\\C# Training Journey\\Training-Journey\\CommandLineParser\\CommandLineParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\utuerk.PBS-AUSTRIA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

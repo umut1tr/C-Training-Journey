@@ -1,0 +1,16 @@
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\bin\Debug\net5.0\StructsC.exe
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\bin\Debug\net5.0\StructsC.deps.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\bin\Debug\net5.0\StructsC.runtimeconfig.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\bin\Debug\net5.0\StructsC.runtimeconfig.dev.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\bin\Debug\net5.0\StructsC.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\bin\Debug\net5.0\ref\StructsC.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\bin\Debug\net5.0\StructsC.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\obj\Debug\net5.0\StructsC.csproj.AssemblyReference.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\obj\Debug\net5.0\StructsC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\obj\Debug\net5.0\StructsC.AssemblyInfoInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\obj\Debug\net5.0\StructsC.AssemblyInfo.cs
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\obj\Debug\net5.0\StructsC.csproj.CoreCompileInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\obj\Debug\net5.0\StructsC.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\obj\Debug\net5.0\ref\StructsC.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\obj\Debug\net5.0\StructsC.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\StructsC\obj\Debug\net5.0\StructsC.genruntimeconfig.cache

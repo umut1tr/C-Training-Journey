@@ -1,0 +1,16 @@
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.exe
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.deps.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.runtimeconfig.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.runtimeconfig.dev.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\ref\VirtualOverrideDemo.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\bin\Debug\net5.0\VirtualOverrideDemo.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.csproj.AssemblyReference.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.AssemblyInfoInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.AssemblyInfo.cs
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.csproj.CoreCompileInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\ref\VirtualOverrideDemo.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\VirtualOverrideDemo\VirtualOverrideDemo\obj\Debug\net5.0\VirtualOverrideDemo.genruntimeconfig.cache

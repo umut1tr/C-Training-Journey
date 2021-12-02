@@ -1,0 +1,7 @@
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe.config
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Dictionaries\Dictionaries\bin\Debug\Dictionaries.exe
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Dictionaries\Dictionaries\bin\Debug\Dictionaries.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.AssemblyReference.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Dictionaries\Dictionaries\obj\Debug\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Dictionaries\Dictionaries\obj\Debug\Dictionaries.exe
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Dictionaries\Dictionaries\obj\Debug\Dictionaries.pdb

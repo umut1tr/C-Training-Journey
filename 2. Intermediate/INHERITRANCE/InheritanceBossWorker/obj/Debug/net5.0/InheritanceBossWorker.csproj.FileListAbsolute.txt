@@ -1,0 +1,16 @@
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\bin\Debug\net5.0\InheritanceBossWorker.exe
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\bin\Debug\net5.0\InheritanceBossWorker.deps.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\bin\Debug\net5.0\InheritanceBossWorker.runtimeconfig.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\bin\Debug\net5.0\InheritanceBossWorker.runtimeconfig.dev.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\bin\Debug\net5.0\InheritanceBossWorker.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\bin\Debug\net5.0\ref\InheritanceBossWorker.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\bin\Debug\net5.0\InheritanceBossWorker.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\obj\Debug\net5.0\InheritanceBossWorker.csproj.AssemblyReference.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\obj\Debug\net5.0\InheritanceBossWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\obj\Debug\net5.0\InheritanceBossWorker.AssemblyInfoInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\obj\Debug\net5.0\InheritanceBossWorker.AssemblyInfo.cs
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\obj\Debug\net5.0\InheritanceBossWorker.csproj.CoreCompileInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\obj\Debug\net5.0\InheritanceBossWorker.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\obj\Debug\net5.0\ref\InheritanceBossWorker.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\obj\Debug\net5.0\InheritanceBossWorker.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceBossWorker\obj\Debug\net5.0\InheritanceBossWorker.genruntimeconfig.cache

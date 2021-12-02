@@ -1,0 +1,30 @@
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\bin\Debug\net5.0\RegexE.exe
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\bin\Debug\net5.0\RegexE.deps.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\bin\Debug\net5.0\RegexE.runtimeconfig.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\bin\Debug\net5.0\RegexE.runtimeconfig.dev.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\bin\Debug\net5.0\RegexE.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\bin\Debug\net5.0\ref\RegexE.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\bin\Debug\net5.0\RegexE.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\obj\Debug\net5.0\RegexE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\obj\Debug\net5.0\RegexE.AssemblyInfoInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\obj\Debug\net5.0\RegexE.AssemblyInfo.cs
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\obj\Debug\net5.0\RegexE.csproj.CoreCompileInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\obj\Debug\net5.0\RegexE.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\obj\Debug\net5.0\ref\RegexE.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\obj\Debug\net5.0\RegexE.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\Regex\obj\Debug\net5.0\RegexE.genruntimeconfig.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\bin\Debug\net5.0\RegexE.exe
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\bin\Debug\net5.0\RegexE.deps.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\bin\Debug\net5.0\RegexE.runtimeconfig.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\bin\Debug\net5.0\RegexE.runtimeconfig.dev.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\bin\Debug\net5.0\RegexE.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\bin\Debug\net5.0\ref\RegexE.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\bin\Debug\net5.0\RegexE.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\obj\Debug\net5.0\RegexE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\obj\Debug\net5.0\RegexE.AssemblyInfoInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\obj\Debug\net5.0\RegexE.AssemblyInfo.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\obj\Debug\net5.0\RegexE.csproj.CoreCompileInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\obj\Debug\net5.0\RegexE.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\obj\Debug\net5.0\ref\RegexE.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\obj\Debug\net5.0\RegexE.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\Regex\obj\Debug\net5.0\RegexE.genruntimeconfig.cache

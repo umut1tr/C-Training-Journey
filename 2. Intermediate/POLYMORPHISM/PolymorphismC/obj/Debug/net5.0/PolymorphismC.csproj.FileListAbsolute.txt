@@ -1,0 +1,16 @@
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\bin\Debug\net5.0\PolymorphismC.exe
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\bin\Debug\net5.0\PolymorphismC.deps.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\bin\Debug\net5.0\PolymorphismC.runtimeconfig.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\bin\Debug\net5.0\PolymorphismC.runtimeconfig.dev.json
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\bin\Debug\net5.0\PolymorphismC.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\bin\Debug\net5.0\ref\PolymorphismC.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\bin\Debug\net5.0\PolymorphismC.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\obj\Debug\net5.0\PolymorphismC.csproj.AssemblyReference.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\obj\Debug\net5.0\PolymorphismC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\obj\Debug\net5.0\PolymorphismC.AssemblyInfoInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\obj\Debug\net5.0\PolymorphismC.AssemblyInfo.cs
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\obj\Debug\net5.0\PolymorphismC.csproj.CoreCompileInputs.cache
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\obj\Debug\net5.0\PolymorphismC.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\obj\Debug\net5.0\ref\PolymorphismC.dll
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\obj\Debug\net5.0\PolymorphismC.pdb
+C:\Users\umut1\Desktop\Coding\C# Training-Journey\PolymorphismC\obj\Debug\net5.0\PolymorphismC.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Stacks and Queues\Stacks and Queues\obj\Debug\Stacks and Queues.csproj.AssemblyReference.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Stacks and Queues\Stacks and Queues\obj\Debug\Stacks and Queues.csproj.CoreCompileInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Stacks and Queues\Stacks and Queues\bin\Debug\Stacks and Queues.exe.config
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Stacks and Queues\Stacks and Queues\bin\Debug\Stacks and Queues.exe
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Stacks and Queues\Stacks and Queues\bin\Debug\Stacks and Queues.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Stacks and Queues\Stacks and Queues\obj\Debug\Stacks and Queues.exe
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\Stacks and Queues\Stacks and Queues\obj\Debug\Stacks and Queues.pdb

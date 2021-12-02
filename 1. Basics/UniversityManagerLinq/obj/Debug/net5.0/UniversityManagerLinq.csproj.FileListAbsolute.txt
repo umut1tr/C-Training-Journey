@@ -1,0 +1,16 @@
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\bin\Debug\net5.0\UniversityManagerLinq.exe
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\bin\Debug\net5.0\UniversityManagerLinq.deps.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\bin\Debug\net5.0\UniversityManagerLinq.runtimeconfig.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\bin\Debug\net5.0\UniversityManagerLinq.runtimeconfig.dev.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\bin\Debug\net5.0\UniversityManagerLinq.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\bin\Debug\net5.0\ref\UniversityManagerLinq.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\bin\Debug\net5.0\UniversityManagerLinq.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\obj\Debug\net5.0\UniversityManagerLinq.csproj.AssemblyReference.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\obj\Debug\net5.0\UniversityManagerLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\obj\Debug\net5.0\UniversityManagerLinq.AssemblyInfoInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\obj\Debug\net5.0\UniversityManagerLinq.AssemblyInfo.cs
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\obj\Debug\net5.0\UniversityManagerLinq.csproj.CoreCompileInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\obj\Debug\net5.0\UniversityManagerLinq.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\obj\Debug\net5.0\ref\UniversityManagerLinq.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\obj\Debug\net5.0\UniversityManagerLinq.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\UniversityManagerLinq\obj\Debug\net5.0\UniversityManagerLinq.genruntimeconfig.cache

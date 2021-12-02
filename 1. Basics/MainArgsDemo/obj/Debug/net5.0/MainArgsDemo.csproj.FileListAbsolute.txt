@@ -1,0 +1,16 @@
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.exe
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.deps.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.runtimeconfig.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.runtimeconfig.dev.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\bin\Debug\net5.0\ref\MainArgsDemo.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\bin\Debug\net5.0\MainArgsDemo.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.csproj.AssemblyReference.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.AssemblyInfoInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.AssemblyInfo.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.csproj.CoreCompileInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\obj\Debug\net5.0\ref\MainArgsDemo.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\MainArgsDemo\obj\Debug\net5.0\MainArgsDemo.genruntimeconfig.cache

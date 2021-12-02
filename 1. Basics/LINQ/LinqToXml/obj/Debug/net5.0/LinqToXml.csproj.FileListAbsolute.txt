@@ -1,0 +1,16 @@
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\obj\Debug\net5.0\LinqToXml.csproj.AssemblyReference.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\obj\Debug\net5.0\LinqToXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\obj\Debug\net5.0\LinqToXml.AssemblyInfoInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\obj\Debug\net5.0\LinqToXml.AssemblyInfo.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\obj\Debug\net5.0\LinqToXml.csproj.CoreCompileInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\bin\Debug\net5.0\LinqToXml.exe
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\bin\Debug\net5.0\LinqToXml.deps.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\bin\Debug\net5.0\LinqToXml.runtimeconfig.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\bin\Debug\net5.0\LinqToXml.runtimeconfig.dev.json
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\bin\Debug\net5.0\LinqToXml.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\bin\Debug\net5.0\ref\LinqToXml.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\bin\Debug\net5.0\LinqToXml.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\obj\Debug\net5.0\LinqToXml.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\obj\Debug\net5.0\ref\LinqToXml.dll
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\obj\Debug\net5.0\LinqToXml.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\LinqToXml\obj\Debug\net5.0\LinqToXml.genruntimeconfig.cache

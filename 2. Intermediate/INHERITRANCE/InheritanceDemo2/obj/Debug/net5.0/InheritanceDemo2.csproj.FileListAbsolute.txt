@@ -1,0 +1,16 @@
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.exe
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.deps.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.runtimeconfig.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.runtimeconfig.dev.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\bin\Debug\net5.0\ref\InheritanceDemo2.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\bin\Debug\net5.0\InheritanceDemo2.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.csproj.AssemblyReference.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.AssemblyInfoInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.AssemblyInfo.cs
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.csproj.CoreCompileInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\obj\Debug\net5.0\ref\InheritanceDemo2.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo2\obj\Debug\net5.0\InheritanceDemo2.genruntimeconfig.cache

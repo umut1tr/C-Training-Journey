@@ -1,0 +1,15 @@
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\bin\Debug\WPF Zoo.exe.config
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\bin\Debug\WPF Zoo.exe
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\bin\Debug\WPF Zoo.pdb
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\WPF Zoo.csproj.AssemblyReference.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\MainWindow.g.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\App.g.cs
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\WPF Zoo_MarkupCompile.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\WPF Zoo_MarkupCompile.lref
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\MainWindow.baml
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\WPF Zoo.g.resources
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\WPF_Zoo.Properties.Resources.resources
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\WPF Zoo.csproj.GenerateResource.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\WPF Zoo.csproj.CoreCompileInputs.cache
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\WPF Zoo.exe
+C:\Users\utuerk.PBS-AUSTRIA\Desktop\C# Training Journey\Training-Journey\WPF Zoo\obj\Debug\WPF Zoo.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/PtC76UGnZD8GLAcGHCcizkIBuG6luHuOSBC0GS1SHp8jJ+jinvGKLpjb+xjp05OQCL/h39CbG3Ot/bBCQ/zIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\umut1\\Desktop\\Coding\\Training-Journey\\AA RESSOURCES - INHERITRANCE\\InheritanceBossWorker\\InheritanceBossWorker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umut1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.exe
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.deps.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.runtimeconfig.dev.json
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\ref\InheritanceDemo.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\bin\Debug\net5.0\InheritanceDemo.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\ref\InheritanceDemo.dll
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.pdb
+C:\Users\codersbay\Desktop\C# Training\Training-Journey\InheritanceDemo\InheritanceDemo\obj\Debug\net5.0\InheritanceDemo.genruntimeconfig.cache
